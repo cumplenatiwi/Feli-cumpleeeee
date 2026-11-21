@@ -58,13 +58,17 @@ body {
     color: #49345e;
 
     text-align: center;
-    font-family: cursive;
+    font-family: Arial, sans-serif;
 
     z-index: 10;
 
     overflow: hidden;
 }
 
+.texto-carta,
+.texto-carta * {
+    font-style: normal;
+}
 
 .sello {
 
